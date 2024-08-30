@@ -10,3 +10,4 @@ print(22)
 14
 145
 print('left')
+print('right')
