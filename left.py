@@ -9,3 +9,4 @@ print(22)
 13
 14
 145
+print('left')
